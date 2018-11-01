@@ -1,7 +1,7 @@
 global:
   marketplace-ami: true
   owner: brianheisler.web@gmail.com
-  qsname: quickstart-chef-automate
+  qsname: test-taskcat-pipeline
   regions:
     - ap-northeast-1
     - ap-northeast-2
